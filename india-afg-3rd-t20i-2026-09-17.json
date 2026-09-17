@@ -1,0 +1,422 @@
+{
+  "record": "pre-match Form Index (graphical index data)",
+  "generated_at_utc": "2026-09-17T02:27:10.273637+00:00",
+  "match": {
+    "title": "India vs Afghanistan — 3rd T20I (Afghanistan in India)",
+    "series": "Afghanistan in India",
+    "date": "2026-09-17",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "format": "t20",
+    "window_ist": "19:30–23:00"
+  },
+  "india": {
+    "label": "India T20 squad",
+    "captain": "Shreyas Iyer",
+    "coach": "Gautam Gambhir",
+    "squad_avg": 69,
+    "playing_xi_avg": 67,
+    "players": [
+      {
+        "name": "Shreyas Iyer",
+        "role": "bat",
+        "playing_xi": true,
+        "form_index": 82,
+        "band": "strong",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "confidence": "high"
+      },
+      {
+        "name": "Shubman Gill",
+        "role": "bat",
+        "playing_xi": false,
+        "form_index": 82,
+        "band": "strong",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "confidence": "high"
+      },
+      {
+        "name": "Suryakumar Yadav",
+        "role": "bat",
+        "playing_xi": false,
+        "form_index": 81,
+        "band": "strong",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "confidence": "high"
+      },
+      {
+        "name": "Hardik Pandya",
+        "role": "allrounder",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Jasprit Bumrah",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Mohammed Siraj",
+        "role": "bowl",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "role": "allrounder",
+        "playing_xi": true,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Ravi Bishnoi",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Shivam Dube",
+        "role": "allrounder",
+        "playing_xi": true,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Vaibhav Sooryavanshi",
+        "role": "bat",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Varun Chakaravarthy",
+        "role": "bowl",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Washington Sundar",
+        "role": "allrounder",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Abhishek Sharma",
+        "role": "bat",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Arshdeep Singh",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Ravindra Jadeja",
+        "role": "allrounder",
+        "playing_xi": false,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Rinku Singh",
+        "role": "bat",
+        "playing_xi": false,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Rishabh Pant",
+        "role": "wk-bat",
+        "playing_xi": false,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Sanju Samson",
+        "role": "wk-bat",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Tilak Varma",
+        "role": "bat",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Yashasvi Jaiswal",
+        "role": "bat",
+        "playing_xi": false,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Axar Patel",
+        "role": "allrounder",
+        "playing_xi": true,
+        "form_index": 46,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Ishan Kishan",
+        "role": "wk-bat",
+        "playing_xi": true,
+        "form_index": 43,
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
+      },
+      {
+        "name": "Kuldeep Yadav",
+        "role": "bowl",
+        "playing_xi": false,
+        "form_index": 43,
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
+      }
+    ]
+  },
+  "match_outlook": {
+    "tone": "balanced",
+    "headline": "Toss-up on timing — either side can seize it",
+    "detail": "XI Form Index neck-and-neck (India 67 · Afghanistan 62). Match-ups and powerplay matter most.",
+    "composite_index": 73
+  },
+  "leadership": {
+    "captain_index": 82,
+    "coach_index": 72,
+    "leadership_index": 78
+  },
+  "disclaimer": "Indiavs Form Index blends match context with traditional timing signals. High bars and low bars are claims to check after the match. Mid-range scores are no call. For entertainment only — not betting or financial advice.",
+  "opposition": {
+    "label": "Afghanistan",
+    "captain": "Ibrahim Zadran",
+    "coach": "Jonathan Trott",
+    "squad_avg": 64,
+    "playing_xi_avg": 62,
+    "players": [
+      {
+        "name": "Darwish Rasooli",
+        "role": "bat",
+        "playing_xi": true,
+        "form_index": 81,
+        "band": "strong",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "confidence": "high"
+      },
+      {
+        "name": "Abdullah Ahmadzai",
+        "role": "bowl",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Nangyal Kharoti",
+        "role": "bowl",
+        "playing_xi": false,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Rashid Khan",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 72,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Azmatullah Omarzai",
+        "role": "allrounder",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Fazalhaq Farooqi",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Gulbadin Naib",
+        "role": "allrounder",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Ibrahim Zadran",
+        "role": "bat",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Naveen-ul-Haq",
+        "role": "bowl",
+        "playing_xi": false,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Noor Ahmad",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Noor Rahman",
+        "role": "wk",
+        "playing_xi": false,
+        "form_index": 71,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Mohammad Nabi",
+        "role": "allrounder",
+        "playing_xi": true,
+        "form_index": 46,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Rahmanullah Gurbaz",
+        "role": "wk-bat",
+        "playing_xi": true,
+        "form_index": 46,
+        "band": "neutral",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "confidence": "no_call"
+      },
+      {
+        "name": "Mujeeb Ur Rahman",
+        "role": "bowl",
+        "playing_xi": true,
+        "form_index": 43,
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
+      },
+      {
+        "name": "Sediqullah Atal",
+        "role": "bat",
+        "playing_xi": true,
+        "form_index": 43,
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
+      }
+    ]
+  }
+}
