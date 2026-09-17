@@ -1,6 +1,7 @@
 {
   "record": "pre-match Form Index (graphical index data)",
-  "generated_at_utc": "2026-09-17T02:27:10.273637+00:00",
+  "generated_at_utc": "2026-09-17T02:42:17.349889+00:00",
+  "calibration": "strong >= 75; caution < 47; neutral 47-74 (2026-09-17)",
   "match": {
     "title": "India vs Afghanistan — 3rd T20I (Afghanistan in India)",
     "series": "Afghanistan in India",
@@ -221,10 +222,10 @@
         "role": "allrounder",
         "playing_xi": true,
         "form_index": 46,
-        "band": "neutral",
-        "claim": "none",
-        "hint": "No call — mid-range Form Index; do not read this as good or bad",
-        "confidence": "no_call"
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
       },
       {
         "name": "Ishan Kishan",
@@ -248,22 +249,8 @@
       }
     ]
   },
-  "match_outlook": {
-    "tone": "balanced",
-    "headline": "Toss-up on timing — either side can seize it",
-    "detail": "XI Form Index neck-and-neck (India 67 · Afghanistan 62). Match-ups and powerplay matter most.",
-    "composite_index": 73
-  },
-  "leadership": {
-    "captain_index": 82,
-    "coach_index": 72,
-    "leadership_index": 78
-  },
-  "disclaimer": "Indiavs Form Index blends match context with traditional timing signals. High bars and low bars are claims to check after the match. Mid-range scores are no call. For entertainment only — not betting or financial advice.",
   "opposition": {
     "label": "Afghanistan",
-    "captain": "Ibrahim Zadran",
-    "coach": "Jonathan Trott",
     "squad_avg": 64,
     "playing_xi_avg": 62,
     "players": [
@@ -382,20 +369,20 @@
         "role": "allrounder",
         "playing_xi": true,
         "form_index": 46,
-        "band": "neutral",
-        "claim": "none",
-        "hint": "No call — mid-range Form Index; do not read this as good or bad",
-        "confidence": "no_call"
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
       },
       {
         "name": "Rahmanullah Gurbaz",
         "role": "wk-bat",
         "playing_xi": true,
         "form_index": 46,
-        "band": "neutral",
-        "claim": "none",
-        "hint": "No call — mid-range Form Index; do not read this as good or bad",
-        "confidence": "no_call"
+        "band": "caution",
+        "claim": "difficult",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "confidence": "high"
       },
       {
         "name": "Mujeeb Ur Rahman",
@@ -418,5 +405,17 @@
         "confidence": "high"
       }
     ]
-  }
+  },
+  "match_outlook": {
+    "tone": "balanced",
+    "headline": "Toss-up on timing — either side can seize it",
+    "detail": "XI Form Index neck-and-neck (India 67 · Afghanistan 62). Match-ups and powerplay matter most.",
+    "composite_index": 73
+  },
+  "leadership": {
+    "captain_index": 82,
+    "coach_index": 72,
+    "leadership_index": 78
+  },
+  "disclaimer": "Indiavs Form Index blends match context with traditional timing signals. High bars and low bars are claims to check after the match. Mid-range scores are no call. For entertainment only — not betting or financial advice."
 }

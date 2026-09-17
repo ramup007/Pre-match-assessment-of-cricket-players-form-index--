@@ -2,7 +2,8 @@
 
 - Match date: 2026-09-17 · Venue: Arun Jaitley Stadium, Delhi
 - Window (IST): 19:30–23:00
-- Record generated (UTC): 2026-09-17T02:27:10.273637+00:00
+- Record generated (UTC): 2026-09-17T02:42:17.349889+00:00
+- Calibration: strong ≥ 75 · caution < 47 · neutral 47–74
 - India XI average: 67
 - Afghanistan XI average: 62
 
@@ -19,7 +20,7 @@
 | Arshdeep Singh | 71 | neutral | none |
 | Sanju Samson | 71 | neutral | none |
 | Tilak Varma | 71 | neutral | none |
-| Axar Patel | 46 | neutral | none |
+| Axar Patel | 46 | caution | difficult |
 | Ishan Kishan | 43 | caution | difficult |
 
 ## Afghanistan playing XI
@@ -33,8 +34,8 @@
 | Gulbadin Naib | 71 | neutral | none |
 | Ibrahim Zadran | 71 | neutral | none |
 | Noor Ahmad | 71 | neutral | none |
-| Mohammad Nabi | 46 | neutral | none |
-| Rahmanullah Gurbaz | 46 | neutral | none |
+| Mohammad Nabi | 46 | caution | difficult |
+| Rahmanullah Gurbaz | 46 | caution | difficult |
 | Mujeeb Ur Rahman | 43 | caution | difficult |
 | Sediqullah Atal | 43 | caution | difficult |
 

@@ -16,8 +16,8 @@ with the actual match result afterwards to check accuracy.
 ## Reading a record
 
 - **Index 75+ (strong)** — claim of favourable timing for that player.
-- **Index 45 or below (caution)** — claim of a difficult outing.
-- **46–74 (neutral)** — deliberately no call, neither good nor bad.
+- **Index under 47 (caution)** — claim of a difficult outing.
+- **47–74 (neutral)** — deliberately no call, neither good nor bad.
 - Claims are checked after the match across batting, bowling **and**
   fielding (a catch / run-out / stumping counts as a contribution).
 
