@@ -1,0 +1,47 @@
+# ind-vs-wi-1st-odi-2026-09-27
+
+Venue: Greenfield International Stadium, Thiruvananthapuram | Date: 2026-09-27
+
+## India
+
+| Player | Index | Band |
+|---|---|---|
+| Rohit Sharma | 92 | strong |
+| Yashasvi Jaiswal | 92 | strong |
+| KL Rahul | 82 | strong |
+| Mohammed Siraj | 82 | strong |
+| Ravindra Jadeja | 82 | strong |
+| Ruturaj Gaikwad | 82 | strong |
+| Kuldeep Yadav | 74 | neutral |
+| Dhruv Jurel | 62 | neutral |
+| Nitish Kumar Reddy | 62 | neutral |
+| Gurnoor Brar | 60 | neutral |
+| Prasidh Krishna | 60 | neutral |
+| Auqib Nabi | 58 | neutral |
+| Virat Kohli | 58 | neutral |
+| Shubman Gill | 43 | caution |
+| Naman Dhir | — | neutral |
+
+## West Indies
+
+| Player | Index | Band |
+|---|---|---|
+| Jayden Seales | 92 | strong |
+| Amir Jangoo | 82 | strong |
+| Jewel Andrew | 82 | strong |
+| Justin Greaves | 82 | strong |
+| Keacy Carty | 82 | strong |
+| Shamar Joseph | 74 | neutral |
+| Sherfane Rutherford | 72 | neutral |
+| Keemo Paul | 62 | neutral |
+| Shai Hope | 62 | neutral |
+| Alzarri Joseph | 60 | neutral |
+| Gudakesh Motie | 60 | neutral |
+| Roston Chase | 60 | neutral |
+| Vitel Lawes | 46 | caution |
+| John Campbell | — | neutral |
+| Matthew Forde | — | neutral |
+
+Bands: 75+ strong (favourable timing claim) · under 47 caution (difficult outing claim) · 47-74 neutral (deliberately no call). Checked after the match across batting, bowling and fielding.
+
+*For entertainment only — not betting or financial advice.*
