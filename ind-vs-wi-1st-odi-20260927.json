@@ -1,0 +1,116 @@
+{
+  "fixture": "ind-vs-wi-1st-odi-20260927",
+  "squad_id": "india_odi",
+  "pilot_scope": "india",
+  "match_date": "2026-09-27",
+  "venue": "Greenfield International Stadium, Thiruvananthapuram",
+  "published_at": "2026-09-27T05:26:27.760550+00:00",
+  "players": [
+    {
+      "name": "Rohit Sharma",
+      "role": "",
+      "band": "strong",
+      "form_index": 92,
+      "playing_xi": false
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "role": "",
+      "band": "strong",
+      "form_index": 92,
+      "playing_xi": false
+    },
+    {
+      "name": "KL Rahul",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Mohammed Siraj",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "role": "",
+      "band": "neutral",
+      "form_index": 74,
+      "playing_xi": false
+    },
+    {
+      "name": "Dhruv Jurel",
+      "role": "",
+      "band": "neutral",
+      "form_index": 62,
+      "playing_xi": false
+    },
+    {
+      "name": "Nitish Kumar Reddy",
+      "role": "",
+      "band": "neutral",
+      "form_index": 62,
+      "playing_xi": false
+    },
+    {
+      "name": "Gurnoor Brar",
+      "role": "",
+      "band": "neutral",
+      "form_index": 60,
+      "playing_xi": false
+    },
+    {
+      "name": "Prasidh Krishna",
+      "role": "",
+      "band": "neutral",
+      "form_index": 60,
+      "playing_xi": false
+    },
+    {
+      "name": "Auqib Nabi",
+      "role": "",
+      "band": "neutral",
+      "form_index": 58,
+      "playing_xi": false
+    },
+    {
+      "name": "Virat Kohli",
+      "role": "",
+      "band": "neutral",
+      "form_index": 58,
+      "playing_xi": false
+    },
+    {
+      "name": "Shubman Gill",
+      "role": "",
+      "band": "caution",
+      "form_index": 43,
+      "playing_xi": false
+    },
+    {
+      "name": "Naman Dhir",
+      "role": "",
+      "band": "neutral",
+      "form_index": null,
+      "playing_xi": false
+    }
+  ],
+  "note": "Bands only. Mid-range (neutral) is no-call by design."
+}

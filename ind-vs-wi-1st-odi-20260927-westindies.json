@@ -1,0 +1,116 @@
+{
+  "fixture": "ind-vs-wi-1st-odi-20260927",
+  "squad_id": "westindies_odi",
+  "pilot_scope": "non-india (opponent panel)",
+  "match_date": "2026-09-27",
+  "venue": "Greenfield International Stadium, Thiruvananthapuram",
+  "published_at": "2026-09-27T05:31:43.165127+00:00",
+  "players": [
+    {
+      "name": "Jayden Seales",
+      "role": "",
+      "band": "strong",
+      "form_index": 92,
+      "playing_xi": false
+    },
+    {
+      "name": "Amir Jangoo",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Jewel Andrew",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Justin Greaves",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Keacy Carty",
+      "role": "",
+      "band": "strong",
+      "form_index": 82,
+      "playing_xi": false
+    },
+    {
+      "name": "Shamar Joseph",
+      "role": "",
+      "band": "neutral",
+      "form_index": 74,
+      "playing_xi": false
+    },
+    {
+      "name": "Sherfane Rutherford",
+      "role": "",
+      "band": "neutral",
+      "form_index": 72,
+      "playing_xi": false
+    },
+    {
+      "name": "Keemo Paul",
+      "role": "",
+      "band": "neutral",
+      "form_index": 62,
+      "playing_xi": false
+    },
+    {
+      "name": "Shai Hope",
+      "role": "",
+      "band": "neutral",
+      "form_index": 62,
+      "playing_xi": false
+    },
+    {
+      "name": "Alzarri Joseph",
+      "role": "",
+      "band": "neutral",
+      "form_index": 60,
+      "playing_xi": false
+    },
+    {
+      "name": "Gudakesh Motie",
+      "role": "",
+      "band": "neutral",
+      "form_index": 60,
+      "playing_xi": false
+    },
+    {
+      "name": "Roston Chase",
+      "role": "",
+      "band": "neutral",
+      "form_index": 60,
+      "playing_xi": false
+    },
+    {
+      "name": "Vitel Lawes",
+      "role": "",
+      "band": "caution",
+      "form_index": 46,
+      "playing_xi": false
+    },
+    {
+      "name": "John Campbell",
+      "role": "",
+      "band": "neutral",
+      "form_index": null,
+      "playing_xi": false
+    },
+    {
+      "name": "Matthew Forde",
+      "role": "",
+      "band": "neutral",
+      "form_index": null,
+      "playing_xi": false
+    }
+  ],
+  "note": "Bands only. Mid-range (neutral) is no-call by design."
+}
