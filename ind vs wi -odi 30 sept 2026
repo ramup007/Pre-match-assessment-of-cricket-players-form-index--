@@ -1,0 +1,347 @@
+{
+  "match": {
+    "id": "ind-vs-wi-2nd-odi-20260930",
+    "title": "India vs West Indies — 2nd ODI (West Indies in India)",
+    "series": "West Indies in India",
+    "date": "2026-09-30",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "format": "odi",
+    "window_ist": "14:00–18:30",
+    "playing_xi_count": null,
+    "opponent_label": "West Indies",
+    "opponent_playing_xi_count": null
+  },
+  "squad_avg": 64,
+  "playing_xi_avg": null,
+  "players": [
+    {
+      "name": "Auqib Nabi",
+      "role": "",
+      "form_index": 86,
+      "band": "strong",
+      "hint": "Approximate timing — birth-date estimate, treat with care",
+      "playing_xi": false,
+      "confidence": "borderline",
+      "claim": "none"
+    },
+    {
+      "name": "Gurnoor Brar",
+      "role": "",
+      "form_index": 82,
+      "band": "strong",
+      "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "favourable"
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "role": "",
+      "form_index": 82,
+      "band": "strong",
+      "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "favourable"
+    },
+    {
+      "name": "Nitish Kumar Reddy",
+      "role": "",
+      "form_index": 82,
+      "band": "strong",
+      "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "favourable"
+    },
+    {
+      "name": "Prasidh Krishna",
+      "role": "",
+      "form_index": 82,
+      "band": "strong",
+      "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "favourable"
+    },
+    {
+      "name": "Rohit Sharma",
+      "role": "",
+      "form_index": 82,
+      "band": "strong",
+      "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "favourable"
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "role": "",
+      "form_index": 82,
+      "band": "strong",
+      "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "favourable"
+    },
+    {
+      "name": "Mohammed Siraj",
+      "role": "",
+      "form_index": 70,
+      "band": "neutral",
+      "hint": "No call — mid-range Form Index; do not read this as good or bad",
+      "playing_xi": false,
+      "confidence": "no_call",
+      "claim": "none"
+    },
+    {
+      "name": "Dhruv Jurel",
+      "role": "",
+      "form_index": 62,
+      "band": "neutral",
+      "hint": "No call — mid-range Form Index; do not read this as good or bad",
+      "playing_xi": false,
+      "confidence": "no_call",
+      "claim": "none"
+    },
+    {
+      "name": "Virat Kohli",
+      "role": "",
+      "form_index": 58,
+      "band": "neutral",
+      "hint": "Approximate timing — birth-date estimate, treat with care",
+      "playing_xi": false,
+      "confidence": "borderline",
+      "claim": "none"
+    },
+    {
+      "name": "Shubman Gill",
+      "role": "",
+      "form_index": 56,
+      "band": "neutral",
+      "hint": "Approximate timing — birth-date estimate, treat with care",
+      "playing_xi": false,
+      "confidence": "borderline",
+      "claim": "none"
+    },
+    {
+      "name": "KL Rahul",
+      "role": "",
+      "form_index": 28,
+      "band": "caution",
+      "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "difficult"
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "role": "",
+      "form_index": 28,
+      "band": "caution",
+      "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "difficult"
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "role": "",
+      "form_index": 28,
+      "band": "caution",
+      "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+      "playing_xi": false,
+      "confidence": "high",
+      "claim": "difficult"
+    },
+    {
+      "name": "Naman Dhir",
+      "role": "",
+      "form_index": null,
+      "band": "neutral",
+      "hint": "Timing data unavailable for this player",
+      "playing_xi": false,
+      "confidence": "unknown",
+      "claim": "none"
+    }
+  ],
+  "opponent": {
+    "squad": {
+      "id": "westindies_odi",
+      "label": "West Indies ODI squad",
+      "format": "odi",
+      "revised_on": "2026-09-26",
+      "revise_every_days": null,
+      "captain": "Shai Hope",
+      "coach": ""
+    },
+    "leadership": {
+      "captain_index": 62,
+      "coach_index": null
+    },
+    "squad_avg": 60,
+    "playing_xi_avg": null,
+    "playing_xi_count": null,
+    "players": [
+      {
+        "name": "Alzarri Joseph",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "favourable"
+      },
+      {
+        "name": "Gudakesh Motie",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "favourable"
+      },
+      {
+        "name": "Jayden Seales",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "favourable"
+      },
+      {
+        "name": "Keemo Paul",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "favourable"
+      },
+      {
+        "name": "Keacy Carty",
+        "role": "",
+        "form_index": 70,
+        "band": "neutral",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false,
+        "confidence": "no_call",
+        "claim": "none"
+      },
+      {
+        "name": "Shai Hope",
+        "role": "",
+        "form_index": 62,
+        "band": "neutral",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false,
+        "confidence": "no_call",
+        "claim": "none"
+      },
+      {
+        "name": "Sherfane Rutherford",
+        "role": "",
+        "form_index": 62,
+        "band": "neutral",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false,
+        "confidence": "no_call",
+        "claim": "none"
+      },
+      {
+        "name": "Shamar Joseph",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false,
+        "confidence": "no_call",
+        "claim": "none"
+      },
+      {
+        "name": "Vitel Lawes",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false,
+        "confidence": "no_call",
+        "claim": "none"
+      },
+      {
+        "name": "Jewel Andrew",
+        "role": "",
+        "form_index": 54,
+        "band": "neutral",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false,
+        "confidence": "no_call",
+        "claim": "none"
+      },
+      {
+        "name": "Roston Chase",
+        "role": "",
+        "form_index": 34,
+        "band": "caution",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "difficult"
+      },
+      {
+        "name": "Amir Jangoo",
+        "role": "",
+        "form_index": 28,
+        "band": "caution",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "difficult"
+      },
+      {
+        "name": "Justin Greaves",
+        "role": "",
+        "form_index": 28,
+        "band": "caution",
+        "hint": "Low Form Index — a claim of a difficult window, not a guarantee",
+        "playing_xi": false,
+        "confidence": "high",
+        "claim": "difficult"
+      },
+      {
+        "name": "John Campbell",
+        "role": "",
+        "form_index": null,
+        "band": "neutral",
+        "hint": "Timing data unavailable for this player",
+        "playing_xi": false,
+        "confidence": "unknown",
+        "claim": "none"
+      },
+      {
+        "name": "Matthew Forde",
+        "role": "",
+        "form_index": null,
+        "band": "neutral",
+        "hint": "Timing data unavailable for this player",
+        "playing_xi": false,
+        "confidence": "unknown",
+        "claim": "none"
+      }
+    ]
+  },
+  "match_outlook": {
+    "tone": "balanced",
+    "headline": "Evenly poised — fight for each phase",
+    "detail": "Mixed personal timing across the XI. Form and conditions decide.",
+    "composite_index": 61
+  },
+  "disclaimer": "Indiavs Form Index blends match context with traditional timing signals. High bars and low bars are claims to check after the match. Mid-range scores are no call. For entertainment only — not betting or financial advice.",
+  "exported_at": "2026-09-30T01:51:08.569225+00:00",
+  "source": "indiavs Form Index (Player Performance Index)"
+}
