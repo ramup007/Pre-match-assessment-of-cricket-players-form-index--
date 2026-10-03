@@ -1,0 +1,68 @@
+# indiavs Player Performance Index - India vs West Indies — 3rd ODI (West Indies in India)
+
+- **Match:** India vs West Indies — 3rd ODI (West Indies in India), 2026-10-03, 14:00–18:30 IST
+- **Venue:** Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh
+- **Computed:** 03 Oct 2026, 06:01 IST (2026-10-03T00:31:33.930055+00:00 UTC)
+- **Rated:** full squads of both teams, not just the playing XI
+- **Bands:** strong = favourable, neutral (47-74) = no call, caution = difficult
+
+![Player Performance Index](player-performance-index.png)
+
+| File | What it is |
+|------|------------|
+| README.md | This page: both squads, timestamp and hash |
+| player-performance-index.png | The index as a chart |
+| form-index-ind-vs-wi-3rd-odi-20261003.json | The index data, both full squads |
+| room.html | Predictor Room frontend that renders the Index |
+| room.js | Predictor Room frontend that renders the Index |
+| india_odi.json | Squad rated (birth dates removed for public posting) |
+| westindies_odi.json | Squad rated (birth dates removed for public posting) |
+
+## India (squad avg 69)
+
+| # | Player | Index | Band |
+|---|--------|------:|------|
+| 1 | Shubman Gill | 86 | strong |
+| 2 | Dhruv Jurel | 82 | strong |
+| 3 | Gurnoor Brar | 82 | strong |
+| 4 | Naman Dhir | 82 | strong |
+| 5 | Prasidh Krishna | 82 | strong |
+| 6 | Virat Kohli | 77 | strong |
+| 7 | Mohammed Siraj | 74 | neutral |
+| 8 | KL Rahul | 62 | neutral |
+| 9 | Nitish Kumar Reddy | 62 | neutral |
+| 10 | Ravindra Jadeja | 62 | neutral |
+| 11 | Ruturaj Gaikwad | 62 | neutral |
+| 12 | Kuldeep Yadav | 60 | neutral |
+| 13 | Rohit Sharma | 60 | neutral |
+| 14 | Yashasvi Jaiswal | 60 | neutral |
+| 15 | Auqib Nabi | 50 | neutral |
+
+## West Indies (squad avg 69)
+
+| # | Player | Index | Band |
+|---|--------|------:|------|
+| 1 | Vitel Lawes | 92 | strong |
+| 2 | Alzarri Joseph | 82 | strong |
+| 3 | Gudakesh Motie | 82 | strong |
+| 4 | Roston Chase | 82 | strong |
+| 5 | Shai Hope | 82 | strong |
+| 6 | Shamar Joseph | 82 | strong |
+| 7 | Sherfane Rutherford | 82 | strong |
+| 8 | Keacy Carty | 74 | neutral |
+| 9 | Amir Jangoo | 62 | neutral |
+| 10 | Jewel Andrew | 62 | neutral |
+| 11 | Justin Greaves | 62 | neutral |
+| 12 | Jayden Seales | 60 | neutral |
+| 13 | John Campbell | 46 | caution |
+| 14 | Matthew Forde | 46 | caution |
+| 15 | Keemo Paul | 40 | caution |
+
+## Timestamp proof
+
+SHA-256 of `form-index-ind-vs-wi-3rd-odi-20261003.json`:
+
+`dcb78cd5def96b9d827aaf485462f0d6d07f4f32d70b951cfa38700fd138121f`
+
+Committed before the first ball so the prediction can be checked against the result.
+Fan game, not betting.
