@@ -1,0 +1,66 @@
+{
+  "id": "new_zealand_t20",
+  "label": "New Zealand T20 squad",
+  "format": "t20",
+  "sport": "cricket",
+  "revised_on": "2026-10-21",
+  "note": "T20I squad v India, Oct 2026 (Cricbuzz match squads 161190); all DOBs cross-checked Cricbuzz + Wikipedia.",
+  "captain": "Mitchell Santner",
+  "coach": "Rob Walter",
+  "staff": [
+    {
+      "name": "Rob Walter",
+      "role": "head_coach"
+    }
+  ],
+  "players": [
+    {
+      "name": "Tim Seifert"
+    },
+    {
+      "name": "Mitchell Santner"
+    },
+    {
+      "name": "Finn Allen"
+    },
+    {
+      "name": "Devon Conway"
+    },
+    {
+      "name": "Glenn Phillips"
+    },
+    {
+      "name": "Daryl Mitchell"
+    },
+    {
+      "name": "Michael Bracewell"
+    },
+    {
+      "name": "Nathan Smith"
+    },
+    {
+      "name": "Kyle Jamieson"
+    },
+    {
+      "name": "Matt Henry"
+    },
+    {
+      "name": "Lockie Ferguson"
+    },
+    {
+      "name": "Josh Clarkson"
+    },
+    {
+      "name": "Jacob Duffy"
+    },
+    {
+      "name": "Bevon Jacobs"
+    },
+    {
+      "name": "Adam Milne"
+    },
+    {
+      "name": "Blair Tickner"
+    }
+  ]
+}
