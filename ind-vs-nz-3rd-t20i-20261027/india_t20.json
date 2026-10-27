@@ -1,0 +1,65 @@
+{
+  "id": "india_t20",
+  "label": "India T20 squad",
+  "format": "t20",
+  "sport": "cricket",
+  "revised_on": "2026-10-23",
+  "revise_every_days": 30,
+  "captain": "Shreyas Iyer",
+  "vice_captain": "",
+  "coach": "Gautam Gambhir",
+  "staff": [
+    {
+      "name": "Gautam Gambhir",
+      "role": "head_coach"
+    }
+  ],
+  "players": [
+    {
+      "name": "Sanju Samson"
+    },
+    {
+      "name": "Shreyas Iyer"
+    },
+    {
+      "name": "Vaibhav Sooryavanshi"
+    },
+    {
+      "name": "Abhishek Sharma"
+    },
+    {
+      "name": "Tilak Varma"
+    },
+    {
+      "name": "Shivam Dube"
+    },
+    {
+      "name": "Axar Patel"
+    },
+    {
+      "name": "Arshdeep Singh"
+    },
+    {
+      "name": "Prince Yadav"
+    },
+    {
+      "name": "Mayank Yadav"
+    },
+    {
+      "name": "Kuldeep Yadav"
+    },
+    {
+      "name": "Nitish Kumar Reddy"
+    },
+    {
+      "name": "Naman Dhir"
+    },
+    {
+      "name": "Bhuvneshwar Kumar"
+    },
+    {
+      "name": "Varun Chakaravarthy",
+      "role": "bowl"
+    }
+  ]
+}
