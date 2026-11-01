@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en" data-seo-page="room">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>indiavs — Predictor Room</title>
+  <meta name="description" content="Predictor Room on indiavs — Form Index, live voice commentary, Fan Box, and WhatsApp-style friends chat." />
+  <link rel="canonical" href="https://indiavs.com/room.html" />
+  <meta property="og:site_name" content="indiavs" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="indiavs Predictor Room" />
+  <meta property="og:description" content="Watch live commentary, see Form Index bars, predict with friends, and chat together." />
+  <meta property="og:url" content="https://indiavs.com/room.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="/img/icon-180.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="indiavs" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#0b1220" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/indiavs.css?v=mobile-4" />
+</head>
+<body class="has-match-desk">
+  <div id="match-desk" class="match-desk" data-page="room">
+    <div class="match-desk-layer">
+      <div class="match-desk-brand"><a href="/">indiavs · match desk</a></div>
+      <div id="match-desk-headline" class="match-desk-headline" aria-live="polite"></div>
+      <p class="match-desk-tagline">
+        Enjoy non-stop live audio running commentary — click the speaker · work · drive · listen · enjoy!
+      </p>
+      <div class="match-desk-controls">
+        <button type="button" id="match-desk-audio-btn" class="match-desk-audio-btn" aria-label="Listen to live commentary">
+          <span class="match-desk-audio-icon" aria-hidden="true">🔊</span>
+          <span id="match-desk-audio-label">Listen live</span>
+        </button>
+        <div id="match-desk-engage" class="match-desk-engage" aria-label="Like, share, and save indiavs"></div>
+        <a class="btn secondary match-desk-room-cta" href="#youtube-panel">Watch below ↓</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="home-scroll-layer">
+  <div class="wrap">
+    <nav id="site-topnav" class="site-topnav" aria-label="Site sections"></nav>
+    <header>
+      <h1>Predictor Room</h1>
+      <a class="home-banner home-banner-predictor room-kirkit-banner" href="#kirkit-card">
+        <span class="home-banner-lottie" data-nostradamus aria-hidden="true"></span>
+        <span class="home-banner-body">
+          <strong>Kirkit ka Nostradamus</strong>
+          <span>Start predicting and become “KIRKIT KA NOSTRADAMUS”</span>
+        </span>
+        <span class="home-banner-go">CLICK HERE</span>
+      </a>
+    </header>
+
+    <div class="card" id="squad-form-panel">
+      <div class="squad-form-head-row">
+        <div class="squad-form-banner">
+          <h2>Playing XI · Form Index</h2>
+          <p class="tagline" id="squad-form-next-match">For prediction — loading next match…</p>
+        </div>
+        <button
+          type="button"
+          class="btn secondary btn-sm"
+          id="btn-squad-form-toggle"
+          aria-expanded="false"
+          aria-controls="squad-form-body"
+        >
+          Show Form Index ›
+        </button>
+      </div>
+      <div id="squad-form-body" class="squad-form-body is-collapsed" hidden>
+        <p class="tagline" id="squad-form-subtitle">Loading today&apos;s predictive performance…</p>
+        <div class="squad-format-tabs" id="squad-format-tabs">
+          <button type="button" class="btn secondary squad-tab active" data-squad="india_odi" data-match="ind-vs-wi-1st-odi-20260927">IND vs WI · ODI</button>
+          <button type="button" class="btn secondary squad-tab" data-squad="india_test">Test squad</button>
+          <button type="button" class="btn secondary squad-tab" data-squad="india_t20">T20 squad</button>
+        </div>
+        <div class="match-outlook" id="match-outlook" style="display:none">
+          <strong id="match-outlook-headline"></strong>
+          <p id="match-outlook-detail"></p>
+          <p class="tagline" id="match-outlook-leadership"></p>
+        </div>
+        <div class="squad-form-dual" id="squad-form-dual">
+          <div class="squad-form-side">
+            <h3 class="squad-form-side-title" id="squad-form-home-label">India</h3>
+            <p class="squad-form-avg" id="squad-form-avg-home"></p>
+            <div class="form-bar-chart" id="squad-form-chart-home" aria-label="India Form Index"></div>
+          </div>
+          <div class="squad-form-side" id="squad-form-opp-wrap" hidden>
+            <h3 class="squad-form-side-title" id="squad-form-opp-label">Afghanistan</h3>
+            <p class="squad-form-avg" id="squad-form-avg-opp"></p>
+            <div class="form-bar-chart" id="squad-form-chart-opp" aria-label="Opponent Form Index"></div>
+          </div>
+        </div>
+        <p class="disclaimer" id="squad-form-disclaimer"></p>
+      </div>
+    </div>
+
+    <div class="card usp-watch-card" id="youtube-panel">
+      <h2>Watch · Fan Box screen</h2>
+      <p class="tagline">Live commentary on match nights — react with custom emojis. Audio and video share one stream (no double sound).</p>
+      <div class="youtube-mode-tabs" id="youtube-mode-tabs" style="display:none">
+        <button type="button" class="youtube-mode-tab active" data-mode="live">Live commentary</button>
+        <button type="button" class="youtube-mode-tab" data-mode="highlights">Highlights</button>
+      </div>
+      <div class="fan-watch-shell" id="fan-watch-shell">
+        <div id="page-youtube" class="fan-watch-screen"><p class="tagline">Loading live stream…</p></div>
+        <div class="fan-react-rail fan-react-rail--bottom" id="fan-react-bottom" aria-label="Fan reactions"></div>
+        <div class="fan-react-burst-layer" id="fan-react-bursts" aria-hidden="true"></div>
+      </div>
+      <div id="page-highlights" class="youtube-highlights-pane" style="display:none"></div>
+      <div class="commentary-engage" id="commentary-engage"></div>
+    </div>
+
+    <div id="indiavs-match-canvas"></div>
+
+    <div class="cricket-scorecards-stack" id="cricket-scorecards-stack">
+      <div
+        class="card cricket-live-scores-card cricket-live-scores-card--match1"
+        id="cricket-live-scores-card"
+        data-match-slot="match1"
+        data-under-theatre="1"
+        data-banner-headline="IND vs NZ"
+      >
+        <div class="cricket-live-scores-head">
+          <div class="top-stories-head">
+            <h2 class="cricket-scorecard-banner-title">IND vs NZ · full scorecard</h2>
+            <p class="tagline cricket-scorecard-banner-tagline">2nd T20I · auto-refresh every 20 seconds</p>
+          </div>
+          <button type="button" class="btn secondary btn-sm btn-cricket-sc-toggle" aria-expanded="false">Open full scorecard</button>
+        </div>
+        <div class="cricket-live-scorecard-panel" hidden>
+          <div class="cricket-sc-refresh-pill" aria-hidden="true">Auto refresh · 20s</div>
+          <div class="cricket-live-scorecard-root" aria-live="polite">
+            <p class="cricket-sc-empty cricket-scorecard-empty-hint">Tap the IND vs PAK banner above to load batting and bowling for IND vs NZ (today).</p>
+          </div>
+          <div class="cricket-sc-bcci" hidden></div>
+          <p class="cricket-sc-tick cricket-live-scorecard-tick"></p>
+        </div>
+      </div>
+      <div
+        class="card cricket-live-scores-card cricket-live-scores-card--match2"
+        id="cricket-live-scores-card-match2"
+        data-match-slot="match2"
+        data-banner-headline="IND vs ZIM"
+        hidden
+      >
+        <div class="cricket-live-scores-head">
+          <div class="top-stories-head">
+            <h2 class="cricket-scorecard-banner-title">IND vs ZIM · previous match scorecard</h2>
+            <p class="tagline cricket-scorecard-banner-tagline">1st ODI · previous match · auto-refresh every 20 seconds</p>
+          </div>
+          <button type="button" class="btn secondary btn-sm btn-cricket-sc-toggle" aria-expanded="false">Open full scorecard</button>
+        </div>
+        <div class="cricket-live-scorecard-panel" hidden>
+          <div class="cricket-sc-refresh-pill" aria-hidden="true">Auto refresh · 20s</div>
+          <div class="cricket-live-scorecard-root" aria-live="polite">
+            <p class="cricket-sc-empty cricket-scorecard-empty-hint">Tap the IND vs WI banner above to load batting and bowling for IND vs ZIM (previous match).</p>
+          </div>
+          <div class="cricket-sc-bcci" hidden></div>
+          <p class="cricket-sc-tick cricket-live-scorecard-tick"></p>
+        </div>
+      </div>
+    </div>
+
+    <div id="join-panel" class="card">
+      <h2>Fan Box · join or create</h2>
+      <p class="tagline join-hint">Enter your name. <strong>Join room</strong> with no code creates a new room. Then seal the next over in Kirkit ka Nostradamus — best friend wins Kirkit ka Nostradamus.</p>
+      <input id="player-name" placeholder="Your name (Ravi)" maxlength="40" />
+      <input id="room-title" placeholder="Room title (optional)" maxlength="120" />
+      <select id="tone">
+        <option value="gully">Gully coach</option>
+        <option value="uncle">Hype uncle</option>
+        <option value="air">Calm radio</option>
+      </select>
+      <button class="btn block green" id="btn-create">Create new room</button>
+      <input id="room-code" placeholder="Friend&apos;s room code (6 letters) — optional" maxlength="6" style="text-transform:uppercase" />
+      <button class="btn block secondary" id="btn-join">Join room</button>
+    </div>
+
+      <div class="card kirkit-card" id="kirkit-card">
+        <div class="kirkit-head">
+          <div>
+            <p class="kirkit-kicker">Friends room game</p>
+            <h2 id="kirkit-title">Kirkit ka Nostradamus</h2>
+          </div>
+          <span class="kirkit-lottie" data-nostradamus aria-hidden="true"></span>
+        </div>
+        <p class="tagline kirkit-copy">
+          Seal the <strong>next over</strong> — total runs, fours, sixes, wickets.
+          Live balls settle the slip. Exact lines only.
+          Best friend wins the <strong>Kirkit ka Nostradamus</strong> award.
+        </p>
+        <p class="kirkit-award" id="kirkit-award">No seer yet — first over to score takes the award.</p>
+        <p class="kirkit-status" id="kirkit-status">Join a room to play this over with friends.</p>
+        <div class="kirkit-points-row" aria-label="Points">
+          <span>Wicket <b>15</b></span>
+          <span>Runs <b>8</b></span>
+          <span>Six <b>6</b></span>
+          <span>Four <b>4</b></span>
+          <span>Max <b>33</b></span>
+        </div>
+        <div class="kirkit-slips" id="kirkit-stats">
+          <label class="kirkit-stat">
+            <span>Runs</span>
+            <span class="kirkit-step">
+              <button type="button" class="btn secondary kirkit-minus" data-stat="runs" aria-label="Fewer runs">−</button>
+              <input id="kirkit-runs" type="number" min="0" max="36" value="8" />
+              <button type="button" class="btn secondary kirkit-plus" data-stat="runs" aria-label="More runs">+</button>
+            </span>
+          </label>
+          <label class="kirkit-stat">
+            <span>Fours</span>
+            <span class="kirkit-step">
+              <button type="button" class="btn secondary kirkit-minus" data-stat="fours" aria-label="Fewer fours">−</button>
+              <input id="kirkit-fours" type="number" min="0" max="6" value="1" />
+              <button type="button" class="btn secondary kirkit-plus" data-stat="fours" aria-label="More fours">+</button>
+            </span>
+          </label>
+          <label class="kirkit-stat">
+            <span>Sixes</span>
+            <span class="kirkit-step">
+              <button type="button" class="btn secondary kirkit-minus" data-stat="sixes" aria-label="Fewer sixes">−</button>
+              <input id="kirkit-sixes" type="number" min="0" max="6" value="0" />
+              <button type="button" class="btn secondary kirkit-plus" data-stat="sixes" aria-label="More sixes">+</button>
+            </span>
+          </label>
+          <label class="kirkit-stat">
+            <span>Wickets</span>
+            <span class="kirkit-step">
+              <button type="button" class="btn secondary kirkit-minus" data-stat="wickets" aria-label="Fewer wickets">−</button>
+              <input id="kirkit-wickets" type="number" min="0" max="6" value="0" />
+              <button type="button" class="btn secondary kirkit-plus" data-stat="wickets" aria-label="More wickets">+</button>
+            </span>
+          </label>
+        </div>
+        <button class="btn block green" id="btn-kirkit-seal" type="button">Seal this over</button>
+        <div class="kirkit-friends" id="kirkit-friends"></div>
+        <div class="kirkit-last" id="kirkit-last"></div>
+      </div>
+
+      <div class="card" id="kirkit-board-card">
+        <h2>Leaderboard · Kirkit ka Nostradamus</h2>
+        <ol id="leaderboard"></ol>
+      </div>
+
+    <div class="card whatsapp-room-card" id="friends-chat-panel">
+      <div class="wa-chat-header">
+        <span class="wa-header-icon">💬</span>
+        <div>
+          <strong>Friends chat</strong>
+          <span class="wa-header-sub" id="chat-room-label">Join a room to talk with your group</span>
+        </div>
+      </div>
+      <div class="wa-chat-log" id="chat-log">
+        <div class="wa-bubble wa-in"><span class="wa-sender">indiavs</span>Match night! Join room above, then friends see the same chat here.</div>
+      </div>
+      <input id="chat-input" placeholder="Type a message to your friends…" maxlength="400" disabled />
+      <button class="btn block wa-btn" id="btn-chat" type="button" disabled>Send message</button>
+      <a class="btn block secondary wa-btn-outline" id="btn-whatsapp" href="#" target="_blank" rel="noopener noreferrer">Share room on WhatsApp</a>
+    </div>
+
+    <div id="room-panel" class="hidden" style="display:none">
+      <div class="card">
+        <h2 id="room-title-display">Room</h2>
+        <p>Code: <strong id="room-code-display"></strong>
+          <button class="btn secondary" id="btn-share" type="button">Share</button>
+          <button class="btn secondary" id="btn-leave" type="button">Leave room</button>
+        </p>
+        <div id="live-score-strip" class="live-score-strip" hidden aria-live="polite" style="margin-bottom:0.75rem"></div>
+        <div id="room-widgets" class="widget-grid" style="margin-bottom:0.75rem"></div>
+        <div class="score-bar" id="score-bar">Score loading…</div>
+      </div>
+
+      <div class="card">
+        <h2>Fan Box</h2>
+        <div class="feed-box" id="fanbox-feed">
+          <div class="feed-line feed-empty">Waiting for live score lines…</div>
+        </div>
+        <p class="disclaimer">~4 min delay possible · fan commentary · not official</p>
+      </div>
+
+      <div class="card">
+        <h2>Ask Fan Box</h2>
+        <input id="ask-input" placeholder="Ask: Why LBW?" maxlength="200" />
+        <button class="btn block secondary" id="btn-ask">Ask Fan Box</button>
+      </div>
+
+      <div class="ad-strip card">
+        <a id="aff-room" href="http://127.0.0.1:5002/" target="_blank" rel="noopener">Affidavits ₹29 →</a>
+      </div>
+    </div>
+
+    <p><a href="/">← Back home</a> · <a href="/copyright.html">Copyright &amp; takedown</a></p>
+  </div>
+  </div>
+  <script src="/site_nav.js?v=archery-boxing-1" defer></script>
+  <script src="/widgets.js" defer></script>
+  <script src="/install.js?v=pwa-install-2" defer></script>
+  <script src="/seo.js" defer></script>
+  <script src="/watch.js?v=fan-react-rise-slow" defer></script>
+  <script src="/score_strip.js?v=theatre-scorecard-1" defer></script>
+  <script src="/cricket_scorecard.js?v=scorecard-layout-1" defer></script>
+  <script src="/match_desk.js?v=indw-slw-slot-1" defer></script>
+  <script src="/room.js?v=nz-t20-4" defer></script>
+  <script src="/match_theatre/pitch_from_commentary.js?v=1" defer></script>
+  <script src="/match_theatre/pitch_idle_replay.js?v=hawkeye-fix-3" defer></script>
+  <script src="/match_theatre/bowl_length.js?v=bowl-length-1" defer></script>
+  <script src="/match_theatre/shot_style.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/pace.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/outswing.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/inswing.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/off_spin.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/leg_spin.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/slower_ball.js?v=1" defer></script>
+  <script src="/match_theatre/bowling/index.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/defend.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/straight_drive.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/cover_drive.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/cut.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/pull.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/flick.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/sweep.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/slog.js?v=1" defer></script>
+  <script src="/match_theatre/batsman/index.js?v=1" defer></script>
+  <script src="/match_canvas.js?v=celeb-fix-2" defer></script>
+  <script src="/lottie/boot.js?v=n3" defer></script>
+</body>
+</html>
+
