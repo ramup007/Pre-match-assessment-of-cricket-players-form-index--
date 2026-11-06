@@ -1,0 +1,59 @@
+{
+  "id": "new_zealand_odi",
+  "label": "New Zealand ODI",
+  "format": "odi",
+  "sport": "cricket",
+  "revised_on": "2026-11-03",
+  "captain": "Mitchell Santner",
+  "coach": "Rob Walter",
+  "staff": [
+    {
+      "name": "Rob Walter",
+      "role": "head_coach"
+    }
+  ],
+  "players": [
+    {
+      "name": "Will Young"
+    },
+    {
+      "name": "Devon Conway"
+    },
+    {
+      "name": "Henry Nicholls"
+    },
+    {
+      "name": "Daryl Mitchell"
+    },
+    {
+      "name": "Tom Latham"
+    },
+    {
+      "name": "Glenn Phillips"
+    },
+    {
+      "name": "Michael Bracewell"
+    },
+    {
+      "name": "Mitchell Santner"
+    },
+    {
+      "name": "Matt Henry"
+    },
+    {
+      "name": "Kyle Jamieson"
+    },
+    {
+      "name": "Jacob Duffy"
+    },
+    {
+      "name": "Nathan Smith"
+    },
+    {
+      "name": "Tim Seifert"
+    },
+    {
+      "name": "Blair Tickner"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "india_odi",
+  "label": "India ODI squad",
+  "format": "odi",
+  "sport": "cricket",
+  "revised_on": "2026-11-03",
+  "captain": "Shubman Gill",
+  "coach": "",
+  "players": [
+    {
+      "name": "Shubman Gill"
+    },
+    {
+      "name": "KL Rahul"
+    },
+    {
+      "name": "Rohit Sharma"
+    },
+    {
+      "name": "Virat Kohli"
+    },
+    {
+      "name": "Shreyas Iyer"
+    },
+    {
+      "name": "Nitish Kumar Reddy"
+    },
+    {
+      "name": "Axar Patel"
+    },
+    {
+      "name": "Kuldeep Yadav"
+    },
+    {
+      "name": "Anshul Kamboj"
+    },
+    {
+      "name": "Mohammed Siraj"
+    },
+    {
+      "name": "Arshdeep Singh"
+    },
+    {
+      "name": "Gurnoor Brar"
+    },
+    {
+      "name": "Naman Dhir"
+    },
+    {
+      "name": "Auqib Nabi"
+    },
+    {
+      "name": "Ruturaj Gaikwad"
+    },
+    {
+      "name": "Ishan Kishan"
+    }
+  ],
+  "vice_captain": "KL Rahul"
+}
