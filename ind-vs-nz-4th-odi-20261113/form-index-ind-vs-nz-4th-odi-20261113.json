@@ -1,0 +1,326 @@
+{
+  "match": {
+    "id": "ind-vs-nz-4th-odi-20261113",
+    "title": "India vs New Zealand — 4th ODI (India tour of New Zealand 2026)",
+    "series": "India tour of New Zealand 2026",
+    "date": "2026-11-13",
+    "venue": "Bay Oval, Mount Maunganui",
+    "format": "odi",
+    "window_ist": "07:30–15:30"
+  },
+  "opponent_label": "New Zealand",
+  "computed_at_utc": "2026-11-13T01:27:19.580923+00:00",
+  "model": "v3",
+  "rated": "full squads (not just the playing XI)",
+  "bands": "strong = favourable | neutral 47-74 = no call | caution = difficult",
+  "india": {
+    "squad_avg": 70,
+    "players": [
+      {
+        "name": "Ishan Kishan",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false
+      },
+      {
+        "name": "Kuldeep Yadav",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false
+      },
+      {
+        "name": "Naman Dhir",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Nitish Kumar Reddy",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false
+      },
+      {
+        "name": "Shubman Gill",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Auqib Nabi",
+        "role": "",
+        "form_index": 77,
+        "band": "strong",
+        "confidence": "borderline",
+        "claim": "none",
+        "hint": "Borderline score — treat with care",
+        "playing_xi": true
+      },
+      {
+        "name": "Virat Kohli",
+        "role": "",
+        "form_index": 77,
+        "band": "strong",
+        "confidence": "borderline",
+        "claim": "none",
+        "hint": "Borderline score — treat with care",
+        "playing_xi": true
+      },
+      {
+        "name": "Gurnoor Brar",
+        "role": "",
+        "form_index": 74,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Rohit Sharma",
+        "role": "",
+        "form_index": 66,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Arshdeep Singh",
+        "role": "",
+        "form_index": 62,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Axar Patel",
+        "role": "",
+        "form_index": 62,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Anshul Kamboj",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Mohammed Siraj",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false
+      },
+      {
+        "name": "KL Rahul",
+        "role": "",
+        "form_index": 56,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Ruturaj Gaikwad",
+        "role": "",
+        "form_index": 56,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false
+      },
+      {
+        "name": "Shreyas Iyer",
+        "role": "",
+        "form_index": 54,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      }
+    ]
+  },
+  "opponent": {
+    "squad_avg": 73,
+    "players": [
+      {
+        "name": "Henry Nicholls",
+        "role": "",
+        "form_index": 92,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Matt Henry",
+        "role": "",
+        "form_index": 92,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": false
+      },
+      {
+        "name": "Blair Tickner",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Daryl Mitchell",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Glenn Phillips",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Tim Seifert",
+        "role": "",
+        "form_index": 82,
+        "band": "strong",
+        "confidence": "high",
+        "claim": "favourable",
+        "hint": "High Form Index — a claim of favourable timing, not a guarantee",
+        "playing_xi": true
+      },
+      {
+        "name": "Michael Bracewell",
+        "role": "",
+        "form_index": 74,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false
+      },
+      {
+        "name": "Devon Conway",
+        "role": "",
+        "form_index": 72,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": false
+      },
+      {
+        "name": "Jacob Duffy",
+        "role": "",
+        "form_index": 66,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Mitchell Santner",
+        "role": "",
+        "form_index": 66,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Kyle Jamieson",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Nathan Smith",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Tom Latham",
+        "role": "",
+        "form_index": 60,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      },
+      {
+        "name": "Will Young",
+        "role": "",
+        "form_index": 56,
+        "band": "neutral",
+        "confidence": "no_call",
+        "claim": "none",
+        "hint": "No call — mid-range Form Index; do not read this as good or bad",
+        "playing_xi": true
+      }
+    ]
+  }
+}
